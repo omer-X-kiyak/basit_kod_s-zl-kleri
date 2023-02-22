@@ -1,0 +1,4 @@
+{
+    "cmd ile Toplu uzantı değistir": "ren *.micro *.jpg",
+    "cmd ile yazı rengi değistir": "color a{yandaki harfi değistirebilirsiniz}"  
+}
